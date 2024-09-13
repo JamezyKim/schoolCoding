@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\source\\repos\\schoolCoding\\schoolCoding\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F5E586CC-4E27-48B0-9958-BB9EDC932245}|schoolCoding\\schoolCoding.vcxproj|C:\\Users\\PC\\source\\repos\\schoolCoding\\schoolCoding\\schoolCoding\\schoolCoding.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F5E586CC-4E27-48B0-9958-BB9EDC932245}|schoolCoding\\schoolCoding.vcxproj|solutionrelative:schoolCoding\\schoolCoding.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "schoolCoding.c",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\schoolCoding\\schoolCoding\\schoolCoding\\schoolCoding.c",
+              "RelativeDocumentMoniker": "schoolCoding\\schoolCoding.c",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\schoolCoding\\schoolCoding\\schoolCoding\\schoolCoding.c",
+              "RelativeToolTip": "schoolCoding\\schoolCoding.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-09-13T00:01:10.788Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
