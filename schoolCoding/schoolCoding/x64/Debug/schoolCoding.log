@@ -1,2 +1,3 @@
 ﻿  schoolCoding.c
+C:\Users\PC\source\repos\schoolCoding\schoolCoding\schoolCoding\schoolCoding.c(6,8): warning C4047: 'initializing': 'char *' differs in levels of indirection from 'int'
   schoolCoding.vcxproj -> C:\Users\PC\source\repos\schoolCoding\schoolCoding\x64\Debug\schoolCoding.exe
